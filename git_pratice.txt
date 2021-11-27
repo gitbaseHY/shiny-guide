@@ -4,3 +4,5 @@ first commit to local git;
 in master: edit something;
 
 in test: different;
+
+in master: second change;
