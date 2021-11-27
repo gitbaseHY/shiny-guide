@@ -8,3 +8,5 @@ in test: different;
 in master: second change;
 
 in master: third change;
+
+in test: no password
