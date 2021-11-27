@@ -6,3 +6,5 @@ in master: edit something;
 in test: different;
 
 in master: second change;
+
+in master: third change;
