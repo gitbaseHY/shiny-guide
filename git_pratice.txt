@@ -11,4 +11,4 @@ in master: third change;
 
 in test: no password;
 
-in master: branch new test;
+in test_new： push new branch;
